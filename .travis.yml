@@ -4,5 +4,4 @@ xcode_workspace: TravisCIBlog.xcworkspace
 xcode_scheme: TravisCIBlog
 xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
 before_install:
-- cd Example
 - pod install
